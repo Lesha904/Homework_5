@@ -1,0 +1,229 @@
+.main_box{
+    position: relative;
+    width: 1440px;
+    height: 1276px;
+    background: rgb(243, 243, 243);
+    font-family: Open Sans;
+}
+
+ .generel {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: linear-gradient(90.02deg, #25335A 0.02%, #141824 113.01%);
+    border-radius: 16px;
+    height: 184px;
+    width: 660px;
+}
+
+.box1{
+    margin: 32px 732px 1060px 48px;
+}
+.box2{
+    margin: 280px 732px 812px 48px;
+}
+.box3{
+    margin: 528px 732px 564px 48px;
+}
+.box4{
+    margin: 776px 732px 316px 48px;
+}
+.box5{
+    margin: 1024px 732px 68px 48px;
+}
+
+.all_title {
+    position: absolute;
+    height: 33px;
+    left: 40px;
+    bottom: 79px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+.title1{
+    width: 218px;
+}
+.title2{
+    width: 224px;
+}
+.title3{
+    width: 270px;
+}
+.title4{
+    width: 223px;
+}
+.title5{
+    width: 235px;   /* margin: 105px 357px 35px 40px; почему не срабатывает? */
+}
+
+p{
+    position: absolute;
+    width: 263px;
+    height: 44px;
+    left: 40px;
+    bottom: 35px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.img1{
+    position: absolute;
+    width: 232px;
+    height: 200px;
+    right: 50.98px;
+    bottom: -32.61px;
+}
+.img2{
+    position: absolute;
+    width: 255.54px;
+    height: 250px;
+    right: 29.46px;
+    bottom: -46px;
+}
+.img3{
+    position: absolute;
+    width: 220px;
+    height: 215px;
+    right: 47px;
+    bottom: -23px;
+}
+.img4{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    right: 29px;
+    bottom: -54px;
+}
+.img5{
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    right: 26px;
+    bottom: -68px;
+}
+/* Ниже характеристика 6-10 блоков */
+/* ЧТО касается свойств самих блоков */
+.generel2{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    border: 1px solid red;
+    height: 184px;
+    width: 660px;
+
+}
+.box6{
+    margin: 32px 48px 1060px 732px;
+}
+.box7{
+    margin: 280px 48px 812px 732px;
+}
+.box8{
+    margin: 528px 48px 564px 732px;
+}
+.box9{
+    margin: 776px 48px 316px 732px;
+}
+.box10{
+    margin: 1024px 48px 68px 732px;
+}
+/* Характеристика всех заголовков */
+.all_title2{
+    position: absolute;
+    height: 33px;
+    left: 40px;
+    bottom: 79px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    color: #B65741;
+}
+
+.title6{
+    width: 218px;
+}
+.title7{
+    width: 224px;
+}
+.title8{
+    width: 270px;
+}
+.title9{
+    width: 223px;
+}
+.title10{
+    width: 235px;
+}
+/* Характеристика для текста */
+
+.text{
+    position: absolute;
+    width: 263px;
+    height: 44px;
+    left: 40px;
+    bottom: 35px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #AD4328;
+}
+
+/* Картинки */
+.img6{
+    position: absolute;
+    width: 384px;
+    height: 216px;
+    right: -29px;
+    bottom: -46px;
+}
+.img7{
+    position: absolute;
+    width: 255.54px;
+    height: 250px;
+    right: 50.46px;
+    bottom: -63px;
+}
+.img8{
+    position: absolute;
+    width: 220px;
+    height: 215px;
+    right: 65px;
+    bottom: -28px;
+}
+.img9{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    right: 38px;
+    bottom: -54px;
+}
+.img10{
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    right: 42px;
+    bottom: -72px;
+}
+
